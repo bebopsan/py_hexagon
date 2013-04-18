@@ -1,0 +1,16 @@
+En este documento podemos ir archivando las ideas pendientes por desarrollar.
+
+Mediano plazo:
+-------------
+- Hacer una versión cuadrada del juego
+	- Definir las clases y métodos necesarios para representar los 
+	  objetos como el escenario, el jugador, y los obstáculos
+	- Definir una forma en la cual se puedan ejecutar ciclos.
+	- Explorar las interfáses gráficas y la integración de comandos 
+	  de entrada como las téclas.		
+
+El archivo "gmsh_library.py" que se encuentra en Lib contiene definiciones de clases para ser usadas como elementos de una malla en gmsh.
+
+La tarea a corto plazo es construir una librería de clases a partir de esos conceptos y los que se encuentran en el libro de ThinkPython. Esta librería debe contener las definiciones necesarias para construir objetos que puedan ser usados en el juego. Cosas como posición de los objetos, detección de objetos, y asignación de trayectorias...
+
+
