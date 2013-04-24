@@ -4,7 +4,10 @@ Created on Tue Apr 16 09:30:35 2013
 
 Library for definition of elements to use as gmsh input
 
-@author: santiago
+dgsasd
+gmshgaadsgads
+
+@author santiago
 """
 
 

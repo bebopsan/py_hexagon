@@ -7,7 +7,7 @@ Available from http://thinkpython.com
 
 Copyright 2012 Allen B. Downey.
 Distributed under the GNU General Public License at gnu.org/licenses/gpl.html.
-
+s
 """
 
 class Point(object):
